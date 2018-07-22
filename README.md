@@ -1,2 +1,2 @@
 # Tracking-app
-a project to build an app to use for tracking behaviors.
+a project to build an app to use for tracking daily behaviors.
